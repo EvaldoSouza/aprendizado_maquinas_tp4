@@ -15,8 +15,7 @@ Nota: As bibliotecas pygam e ordered-set são essenciais para os scripts modelo_
 
 📊 Fonte dos Dados
 
-Os dados utilizados neste projeto são públicos e foram retirados do Kaggle:
-https://www.kaggle.com/datasets/lucasgreenwell/holland-code-riasec-test-responses
+Os dados utilizados neste projeto são públicos e foram retirados do Kaggle: https://www.kaggle.com/datasets/lucasgreenwell/holland-code-riasec-test-responses
 
 O dataset contém respostas ao teste de personalidade RIASEC, que categoriza interesses profissionais em seis dimensões:
 
